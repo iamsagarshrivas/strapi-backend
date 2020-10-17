@@ -17,7 +17,3 @@ module.exports = ({ env }) => {
   }
   );
 }
-
-
-// uri: env('SRV_URL', "mongodb+srv://amz-offer-be:obgwTKC329RSK58h@sagar-project-1.gklti.mongodb.net/offers")
-
